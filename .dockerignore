@@ -1,0 +1,9 @@
+.env
+pre-trained
+runs
+__pycache__
+*.md
+split-cls-dataset.py
+train-classification.py
+train-detection.py
+.gitignore

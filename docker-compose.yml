@@ -1,0 +1,15 @@
+# version: '1.0'
+
+# services:
+#   webreactjs:
+#     image: 193fdb6286f2e3207f0ac0862b9fb444fa901f1c580fc5807e822837a171536a
+#     build: .
+#     ports:
+#       - 8000:8000
+#     restart: always
+#   servergo:
+#     image: cef5deda0834
+#     build: .
+#     ports:
+#       - 8080:8080
+#     restart: always
